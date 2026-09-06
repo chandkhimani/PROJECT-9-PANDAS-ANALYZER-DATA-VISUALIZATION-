@@ -12,10 +12,14 @@
 
 A Python-based data analysis project developed using **Pandas, NumPy, Matplotlib and Seaborn**.
 
-**Developer:** Chand Khimani  
-**Course:** BCA — Final Year  
-**Subject:** Data Analysis  
-**Guided By:** Girish Gondaliya Sir
+### 👨‍💻 Developer Profile
+
+| Detail | Information |
+|--------|-------------|
+| **Developer** | Chand Khimani |
+| **Education** | Bachelor of Computer Applications (BCA) — Final Year |
+| **Course** | Data Analysis |
+| **Academic Guidance** | Girish Gondaliya  |
 
 </div>
 
